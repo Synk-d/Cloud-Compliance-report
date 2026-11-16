@@ -382,5 +382,3 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for f
 - The open‑source community for utilities such as **Zod**, **React**, and **Docker**.
 
 ---
-
-*Generated and expanded by Antigravity.*
